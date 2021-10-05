@@ -1,11 +1,14 @@
 {
-  "name": "metaprograming",
-  "version": "1.0.0",
-  "description": "",
-  "main": "1-filter-simple.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "GreeD",
-  "license": "ISC"
+	"name": "metaprograming",
+	"version": "1.0.0",
+	"description": "",
+	"main": "1-filter-simple.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "GreeD",
+	"license": "ISC",
+	"dependencies": {
+		"request": "2.88.2"
+	}
 }
